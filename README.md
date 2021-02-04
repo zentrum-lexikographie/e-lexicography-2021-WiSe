@@ -1,6 +1,7 @@
-# e-lexicography-2021-WiSe
-Wintersemester 2020/21
+# Blockseminar e-lexicography-2021-WiSe
+Wintersemester 2021
 
+Das Seminar findet im Zoom-Raum des ZDL statt (Einwahl, s. unten).
 
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 
