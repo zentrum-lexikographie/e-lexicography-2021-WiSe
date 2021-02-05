@@ -5,7 +5,7 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 
 ## Tag 1 (8.2.2021): 
 * 10-12.15 Einführung (Überblick über die "e-Lexicography"; Überblick DWDS-Webseite (1 von 1)
-* 13-16: (gemeinsam mit Julia Naji, ZDL) DWDS-Website (2 von 2): dynamische Elemente im DWDS (Glossare, Filme, Sprachspiele)
+* 13-16 (gemeinsam mit Julia Naji, ZDL) DWDS-Website (2 von 2): dynamische Elemente im DWDS (Glossare, Filme, Sprachspiele)
 
 ## Tag 2 (9.2.2021):
 * 10-12.30 (gemeinsam mit Axel Herold, DWDS): Strukturierung von Wörterbüchern (DWDS-Struktur und Einführung in *TEI-Lex0* mit praktischen Übungen) 
@@ -16,7 +16,7 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 * 13-16.00 (gemeinsam mit NN): Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, einschl. Frame Semantik und Lexikalische Funktionen)
 
 ## Tag 4 (23.2.2021):
-* 10-12.30 (gemeinsam mit Anja Pfeiffer, ZDL): DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
+* 10-12.30 (gemeinsam mit Anja Pfeiffer, ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
 * 13-15.30 (gemeinsam mit Ulf Hamster (BBAW) und vor. Ji-Ung Lee (TU Darmstadt): Evidence 2 - Auswertung der Bewertungen; technischer Hintergrund
 * 15.30-16.00: Zusammenfassung
 
