@@ -4,8 +4,8 @@ Das Seminar findet im Zoom-Raum des ZDL statt (Einwahl, s. unten, Zoom-Raum).
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 
 ## Tag 1 (8.2.2021): 
-* 10-12.15 Einführung (Überblick über die "e-Lexicography"; Überblick DWDS-Webseite (1 von 1)
-* 13-16 (gemeinsam mit Julia Naji, ZDL) DWDS-Website (2 von 2): dynamische Elemente im DWDS (Glossare, Filme, Sprachspiele)
+* 10-12.15 Einführung (Lexikographie, e-Lexicography, DWDS-Webseite)
+* 13-16 (gemeinsam mit Julia Naji, ZDL) dynamische Elemente der DWDS-Webseite (Glossare, Filme, Sprachspiele)
 
 ## Tag 2 (9.2.2021):
 * 10-12.30 (gemeinsam mit Axel Herold, DWDS): Strukturierung von Wörterbüchern (DWDS-Struktur und Einführung in *TEI-Lex0* mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
