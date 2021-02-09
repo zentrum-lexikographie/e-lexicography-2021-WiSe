@@ -24,20 +24,19 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552
 * Evidence: https://www.bbaw.de/forschung/evidence; https://www.informatik.tu-darmstadt.de/ukp/research_6/current_projects/ukp_evidence/ukp_project_evidence.en.jsp
 
+
 ## Zoom-Raum
-### Tag 1: 
-Uhrzeit: 8.Feb. 2021, ab 09:45-16:00
-https://us02web.zoom.us/j/82748434416?pwd=dEcxRlRoQ2VJeGZpWld5U2FMdUN1Zz09
-Meeting-ID: 827 4843 4416
-Kenncode: 278431
+### Tag 3: 
+Uhrzeit: 22.Feb. 2021, ab 09:45-16:00
+https://us02web.zoom.us/j/88550734981?pwd=NnFMdU5CdjVld2F2YlZCYndBU2x6QT09
+Meeting-ID: 885 5073 4981
+Kenncode: 249999
 
-### Tag 2: 
-Uhrzeit: 9.Feb. 2021, ab 09:45-16:00
-https://us02web.zoom.us/j/89275345685?pwd=RGc3OStqbW11MjY2QWtsR3VwUXZFdz09
-Meeting-ID: 892 7534 5685
-Kenncode: 776647
-
-
+### Tag 4: 
+Uhrzeit: 23.Feb. 2021, ab 09:45-16:00
+https://us02web.zoom.us/j/87107042564?pwd=bU9iSE5GMFpzSWQrdGlPeWJBdytudz09
+Meeting-ID: 871 0704 2564
+Kenncode: 624582
 
 
 
