@@ -8,7 +8,7 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 * 13-16 (gemeinsam mit Julia Naji, ZDL) dynamische Elemente der DWDS-Webseite (Glossare, Filme, Sprachspiele)
 
 ## Tag 2 (9.2.2021):
-* 10-12.30 (gemeinsam mit Axel Herold, DWDS): Strukturierung von Wörterbüchern (DWDS-Struktur und Einführung in *TEI-Lex0* mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
+* 10-12.30 (gemeinsam mit Axel Herold, DWDS): Strukturierung von Wörterbüchern (Einführung in *TEI* und *TEI-Lex0* sowie der DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
 * 13.15-16 (gemeinsam mit Ulf Hamster - DFG-Projekt Evidence): Evidence 1: Experiment - Bewertung von Belegbeispielen (App-unterstützt); bitte vorab die Umfrage ausfüllen: https://forms.gle/3NQL4YX1ZicLCvMr8, Anleitung hierzu: https://youtube.com/playlist?list=PL5ZUTHo0MPd6GvUm2oiS8pBzhYZFloZhn
 
 ## Tag 3 (22.2.2021):
