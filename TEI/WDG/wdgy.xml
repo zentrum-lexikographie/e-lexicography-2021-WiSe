@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../TEILex0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title>eWDG2-Beispiel</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version: TEI Lex-0</edition>
+        <editor ref="https://github.com/xlhrld">Axel Herold</editor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Digitales Wörterbuch der deutschen Sprache (DWDS)</publisher>
+        <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date>2021-02-09</date>
+        <availability>
+          <licence>nicht spezifiziert</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <editor>Ruth Klappenbach, Wolfgang Steinitz</editor>
+          <title>Wörterbuch der deutschen Gegenwartssprache</title>
+          <note>6 Bände</note>
+          <publisher>Akademie Verlag</publisher>
+          <pubPlace>Berlin</pubPlace>
+          <date>1967–1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>        
+        <rendition scheme="css" xml:id="b">font-weight: bold;</rendition>
+        <rendition scheme="css" xml:id="c">text-align: center;</rendition>
+        <rendition scheme="css" xml:id="et">margin-left: 2em;</rendition>        
+        <rendition scheme="css" xml:id="g">letter-spacing: 0.25em;</rendition>
+        <rendition scheme="css" xml:id="i">font-style: italic;</rendition>
+        <rendition scheme="css" xml:id="larger">font-size: 120%;</rendition>                
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <body>
+      <head rendition="#c #larger">Y</head>
+      <entry type="mainEntry" xml:id="E_y_1" xml:lang="de">
+        <form type="lemma">
+          <orth extent="full" rendition="#b">y</orth><pc rendition="#b">,</pc>
+          <orth extent="full" rendition="#b">Y</orth><pc rendition="#b">,</pc>
+          <gramGrp>
+            <gram type="pos" value="N"></gram>
+            <gram type="determiner">das</gram><pc>;</pc>
+            <gram type="genus" value="neuter"></gram>
+            <gram type="genitive">-</gram><pc>,</pc>
+            <gram type="plural">-</gram><pc>/</pc>
+            <usg type="socioCultural" expand="umgangssprachlich" rendition="#g">umg.</usg>
+            <gram type="plural">-s</gram>
+          </gramGrp>
+        </form>
+        <sense n="1." xml:id="S_y_3" rendition="#et">
+          <def xml:id="N_y_1" rendition="#i">der fünfundzwanzigste Buchstabe des Alphabets</def><pc>:</pc>
+          <cit type="example">
+            <quote>ein kleines, großes Y</quote>
+          </cit>
+        </sense>
+        <sense n="2." xml:id="S_y_4" rendition="#et">
+          <usg type="domain" expand="Mathematik" rendition="#g">Math.</usg>
+          <def xml:id="N_y_2" rendition="#i">Zeichen für eine unbekannte oder variable Größe</def>
+        </sense>
+      </entry>
+      <entry xml:lang="de" type="wordFamily" xml:id="E_y_2_0">
+        <form type="lemma" rendition="#b">
+          <orth extent="prefix">y-</orth><pc>:</pc>
+          <gramGrp></gramGrp>
+        </form>
+        <entry type="relatedEntry" xml:id="E_y_2" xml:lang="de">
+          <form type="lemma">
+            <orth expand="y-Achse" extent="suff" rendition="#b">-=Achse</orth><pc rendition="#b">,</pc>
+            <gramGrp>
+              <gram type="pos" value="N"></gram>
+              <gram type="determiner">die</gram>
+              <gram type="genus" value="feminine"></gram>
+            </gramGrp>
+          </form>
+          <sense xml:id="S_y_5">
+            <usg type="domain" expand="Mathematik" rendition="#g">Math.</usg>
+            <def xml:id="N_y_3" rendition="#i">senkrechte Achse im rechtwinkligen Koordinatensystem, Ordinatenachse</def>
+          </sense>
+        </entry>
+      </entry>
+      <entry type="main" xml:id="E_y_3" xml:lang="de">
+        <form type="lemma">
+          <orth extent="full" rendition="#b">Yacht</orth><pc rendition="#b">,</pc>
+          <gramGrp>
+            <gram type="pos" value="N"></gram>
+            <gram type="determiner">die</gram>
+            <gram type="genus" value="feminine"></gram>
+          </gramGrp>
+        </form>
+        <sense xml:id="S_y_6">
+          <xr type="synonymy">
+            <lbl rendition="#i">s.</lbl>
+            <ref cRef="UNRESOLVED" type="entry">Jacht</ref>
+          </xr>
+        </sense>
+      </entry>
+      <entry type="main" xml:id="E_y_4" xml:lang="de">
+        <form type="lemma">
+          <orth extent="full" rendition="#b">Yak</orth><pc rendition="#b">,</pc>
+          <gramGrp>
+            <gram type="pos" value="N"></gram>
+            <gram type="determiner">der</gram><pc>;</pc>
+            <gram type="genus" value="masculine"></gram>
+            <gram type="genitive">-s</gram><pc>,</pc>
+            <gram type="plural">-s</gram>
+          </gramGrp>
+          <pc>[</pc><pron>jak</pron><pc>]</pc>
+        </form>
+        <etym>
+          <pc>&lt;</pc><lang rendition="#i">tibet.</lang><pc>&gt;</pc>
+        </etym>
+        <sense xml:id="S_y_7">
+          <def xml:id="N_y_4" rendition="#i">großes, langhaariges Rind der zentralasiatischen Hochländer</def>
+        </sense>
+      </entry>
+      <entry type="main" xml:id="E_y_5" xml:lang="de">
+        <form type="lemma">
+          <orth extent="full" rendition="#b">Yoga</orth><pc rendition="#b">,</pc>
+          <gramGrp>
+            <gram type="pos" value="N"></gram>
+            <gram type="determiner">der</gram>
+            <gram type="genus" value="masculine"></gram>
+          </gramGrp>
+        </form>
+        <sense xml:id="S_y_8">
+          <xr type="synonymy">
+            <lbl rendition="#i">s.</lbl>
+            <ref cRef="UNRESOLVED" type="entry">Joga</ref>
+          </xr>
+        </sense>
+      </entry>
+      <entry type="main" xml:id="E_y_6" xml:lang="de">
+        <form type="lemma">
+          <orth extent="full" rendition="#b">Yoghurt</orth><pc rendition="#b">,</pc>
+          <gramGrp>
+            <gram type="pos" value="N"></gram>
+            <gram type="determiner">der</gram>
+            <gram type="genus" value="masculine"></gram>
+          </gramGrp>
+        </form>
+        <sense xml:id="S_y_9">
+          <xr type="synonymy">
+            <lbl rendition="#i">s.</lbl>
+            <ref cRef="UNRESOLVED" type="entry">Joghurt</ref>
+          </xr>
+        </sense>
+      </entry>
+      <entry type="main" xml:id="E_y_7" xml:lang="de">
+        <form type="lemma">
+          <orth extent="full" rendition="#b">Yogi</orth><pc rendition="#b">,</pc>
+          <gramGrp>
+            <gram type="pos" value="N"></gram>
+            <gram type="determiner">der</gram>
+            <gram type="genus" value="masculine"></gram>
+          </gramGrp>
+        </form>
+        <sense xml:id="S_y_10">
+          <xr type="synonymy">
+            <lbl rendition="#i">s.</lbl>
+            <ref cRef="UNRESOLVED" type="entry">Jogi</ref>
+          </xr>
+        </sense>
+      </entry>
+      <entry type="main" xml:id="E_y_8" xml:lang="de">
+        <form type="lemma">
+          <orth extent="full" rendition="#b">ypsilon</orth><pc rendition="#b">,</pc>
+          <orth extent="full" rendition="#b">Ypsilon</orth><pc rendition="#b">,</pc>
+          <gramGrp>
+            <gram type="pos" value="N"></gram>
+            <gram type="determiner">das</gram>
+            <gram type="genus" value="neuter"></gram>
+          </gramGrp>
+          <pc>[</pc><pron>ü..</pron><pc>]</pc>
+        </form>
+        <etym>
+          <pc>&lt;</pc><lang rendition="#i">griech.</lang><pc>&gt;</pc>
+        </etym>
+        <sense xml:id="S_y_11">
+          <xr type="synonymy">
+            <lbl rendition="#i">s.</lbl>
+            <ref target="#E_y_1" type="entry">y</ref><pc>,</pc>
+            <ref target="#E_y_1" type="entry">Y</ref>
+          </xr>
+        </sense>
+      </entry>
+    </body>
+  </text>
+</TEI>

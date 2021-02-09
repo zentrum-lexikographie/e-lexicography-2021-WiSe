@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../TEILex0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">English Etymology</title>
+        <title type="sub">A Select Glossary Serving as an Introduction
+          to the History of the English Language</title>
+        <author>Kluge, Friedrich</author>
+        <author>Lutz, Frederick</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>excerpt from the completely digitized and proof-read edition</edition>
+        <editor ref="https://github.com/xlhrld">Axel Herold</editor>        
+      </editionStmt>
+      <publicationStmt>
+        <publisher>https://gitlab.com/xlhrld/retro-dict</publisher>
+        <date type="publication">2019-12-13</date>
+        <availability>
+          <licence
+            target="https://creativecommons.org/licenses/by/4.0/">
+            This work is licensed under a Creative Commons
+              Attribution 4.0 International License.
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Kluge, Friedrich/Lutz, Frederick: English Etymology. A
+          Select Glossary Serving as an Introduction to the History of
+          the English Language. Boston, 1898.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>        
+        <rendition scheme="css" xml:id="b">font-weight: bold;</rendition>
+        <rendition scheme="css" xml:id="c">text-align: center;</rendition>                
+        <rendition scheme="css" xml:id="g">letter-spacing: 0.25em;</rendition>
+        <rendition scheme="css" xml:id="i">font-style: italic;</rendition>
+        <rendition scheme="css" xml:id="k">font-variant: small-caps;</rendition>
+        <rendition scheme="css" xml:id="larger">font-size: 120%;</rendition>                
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+    <body xml:id="dictionary">
+      <!-- note: only flat structure: no nested <etym> -->
+      <div xml:id="section-a">
+        <head rendition="#c #larger">A</head>
+        <entry xml:id="E_a_1" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth n="1" rendition="#b">a</orth><pc rendition="#b">,</pc>
+            <orth rendition="#b">an</orth>
+            <gramGrp>
+              <gram type="pos">indef. article</gram>
+            </gramGrp>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>              
+                <orth xml:lang="enm" rendition="#i">a</orth>
+                <orth xml:lang="enm" rendition="#i">an</orth><pc>,</pc>
+              </form>
+            </cit>
+            <cit type="etymon">
+              <lang rendition="#k">oe.</lang>
+              <form>
+                <orth xml:lang="ang" rendition="#i">án</orth><pc>:</pc>    
+              </form>
+            </cit>
+            <xr type="related">
+              <lbl>ident. with</lbl>
+              <ref type="entry" rendition="#i #g">one</ref><pc>.</pc>
+            </xr>          
+          </etym>
+        </entry>
+        <entry xml:id="E_a_2" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth n="2" rendition="#b">a</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>
+                <orth xml:lang="enm" rendition="#i">a</orth><pc>:</pc>
+              </form>
+            </cit>
+            <xr type="related">
+              <lbl>ident. with</lbl>
+              <ref type="entry" rendition="#i">on</ref>
+            </xr>
+            <xr type="related">
+              <pc>(</pc><lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">back</ref><pc>,</pc>
+              <ref type="entry" rendition="#i #g">abroad</ref><pc>)</pc><pc>.</pc>
+            </xr>            
+          </etym>
+        </entry>
+        <entry xml:id="E_a_3" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth rendition="#b">abase</orth><pc rendition="#b">;</pc>
+          </form>
+          <etym>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">base</ref><pc>.</pc>
+            </xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_4" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth rendition="#b">abash</orth>
+          </form>
+          <etym>
+            <seg>short for</seg>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>
+                <orth xml:lang="enm" rendition="#i">abaisshe</orth>
+                <orth xml:lang="enm" rendition="#i">abaïsche</orth>
+                <pc>(</pc><orth xml:lang="enm" rendition="#i">abaïsse</orth><pc>)</pc><pc>:</pc>
+              </form>
+            </cit>
+            <seg>borrowed from</seg>
+            <cit type="etymon">
+              <lang rendition="#k">ofr.</lang>
+              <form>
+                <orth xml:lang="fro" rendition="#i">esbahiss-</orth>
+              </form>
+            </cit>
+            <seg>stem of</seg>
+            <cit type="etymon">
+              <lang rendition="#k">ofr.</lang>
+              <form>
+                <orth xml:lang="fro" rendition="#i">esbahir</orth>
+              </form>
+              <cit type="cognate">
+                <pc>(</pc><lang rendition="#k">fr.</lang>
+                <form>
+                  <orth xml:lang="fra" rendition="#i">ébahir</orth><pc>)</pc>
+                </form>
+              </cit>
+              <gloss>‘astonish’</gloss><pc>.</pc>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_5" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth rendition="#b">abate</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>
+                <orth xml:lang="enm" rendition="#i">abáte</orth><pc>:</pc>
+              </form>
+            </cit>
+            <seg>adapt. of</seg>
+            <cit type="etymon">
+              <lang rendition="#k">ofr.</lang>
+              <form>
+                <orth xml:lang="fro" rendition="#i">abatre</orth>
+              </form>
+              <gloss>‘beat down’</gloss><pc>.</pc>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_6" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abbess</orth><pc>,</pc>
+            <orth>abbey</orth>
+          </form>
+          <etym>
+            <xr type="related">
+              <lbl>see</lbl>
+              <ref type="entry" target="#E_a_7" rendition="#i #g">abbot</ref><pc>.</pc>
+            </xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_7" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abbot</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>
+                <orth xml:lang="enm" rendition="#i">abbot</orth><pc>;</pc>
+              </form>
+            </cit>
+            <cit type="etymon">
+              <seg>older by-form</seg>
+              <lang rendition="#k">me.</lang>
+              <lang rendition="#k">oe.</lang>
+              <form>
+                <!-- would be nicer to have a *list* of ISO 639 codes in xml:lang -->
+                <orth xml:lang="enm" rendition="#i">abbod</orth><pc>.</pc>              
+                <orth extent="none" expand="abbod" xml:lang="ang"></orth>
+              </form>
+            </cit>
+            <seg>Source</seg>
+            <cit type="etymon">
+              <lang rendition="#k">lat.</lang>
+              <form rendition="#i">
+                <orth xml:lang="lat">abbâtem</orth>
+              </form>
+              <form>
+                <pc>(</pc><orth xml:lang="lat" rendition="#i">abbas</orth><pc>)</pc><pc>,</pc>
+              </form>
+            </cit>
+            <seg>whence</seg>
+            <cit type="cognate">
+              <lang rendition="#k">it.</lang>
+              <form>
+                <orth xml:lang="ita" rendition="#i">abbáte</orth><pc>,</pc>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <lang rendition="#k">fr.</lang>
+              <form>
+                <orth xml:lang="fra" rendition="#i">abbé</orth><pc>,</pc>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <lang rendition="#k">ohg.</lang>
+              <orth xml:lang="goh" rendition="#i">abbât</orth>
+            </cit>
+            <cit type="etymon">
+              <lang rendition="#k">g.</lang><lang rendition="#k">du.</lang>
+              <orth xml:lang="deu" rendition="#i">abt</orth><pc>.</pc>
+              <orth xml:lang="nld" extent="none" expand="abt"></orth>
+            </cit>
+          </etym>
+          <entry xml:id="E_a_7_1" xml:lang="eng" type="relatedEntry">
+            <!-- dictScrap is an ugly artifact due to the prose structure of the entry -->
+            <dictScrap>— Hence</dictScrap>
+            <form type="lemma" rendition="#b">
+              <orth>abbess</orth>
+            </form>
+            <etym>
+              <cit type="etymon">
+                <lang rendition="#k">me.</lang>
+                <form rendition="#i">
+                  <orth xml:lang="enm">abbesse</orth>
+                </form>
+              </cit>
+              <seg>from</seg>
+              <cit type="cognate">
+                <lang rendition="#k">fr.</lang>
+                <form rendition="#i">
+                  <orth xml:lang="fr">abbesse</orth>
+                </form>              
+                <pc>(</pc><seg>but</seg>
+                <!-- "example" is clearly wrong here, but the other values are even worse -->
+                <cit type="example">
+                  <lang rendition="#k">oe.</lang>
+                  <form rendition="#i">
+                    <orth xml:lang="ang">abbudisse</orth>
+                  </form>
+                </cit>
+                <seg>=</seg>
+                <cit type="example">
+                  <lang rendition="#k">lat.</lang>
+                  <form>
+                    <orth xml:lang="lat" rendition="#i">abbatissa</orth><pc>)</pc>
+                  </form>
+                </cit>
+                <gloss>‘abbess’</gloss>
+              </cit>
+            </etym>
+          </entry>
+            <dictScrap>and</dictScrap>
+            <form type="lemma" rendition="#b">
+              <orth>abbey</orth>
+            </form>
+            <etym>
+              <cit type="etymon">
+                <lang rendition="#k">me.</lang>
+                <form rendition="#i">
+                  <orth xml:lang="enm">abbeie</orth>
+                </form>
+              </cit>
+              <seg>from</seg>
+              <cit type="cognate">
+                <lang rendition="#k">fr.</lang>
+                <form rendition="#i">
+                  <orth xml:lang="fra">abbaye</orth>
+                </form>
+                <cit type="cognate">
+                  <pc>(</pc><lang rendition="#k">ofr.</lang>
+                  <form>
+                    <orth xml:lang="fro" rendition="#i">abeïe</orth><pc>)</pc><pc>.</pc>
+                  </form>
+                </cit>
+              </cit>              
+          </etym>
+        </entry>
+        <entry xml:id="E_a_8" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abide</orth>
+          </form>
+          <etym>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">bide</ref>
+              <lbl>and</lbl>
+              <ref type="entry" rendition="#i #g">abode</ref><pc>.</pc>
+            </xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_9" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>able</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>
+                <orth rendition="#i">áble</orth><pc>:</pc>
+              </form>
+            </cit>
+            <seg>adapt. of</seg>
+            <cit type="etymon">
+              <lang rendition="#k">ofr.</lang>
+              <form>
+                <!-- note: varying typography in //orth-->
+                <orth xml:lang="fro">(<hi rendition="#i">h</hi>)<hi rendition="#i">able</hi></orth>
+              </form>
+            </cit>
+            <seg>=</seg> 
+            <cit type="cognate">
+              <lang rendition="#k">span.</lang>
+              <form>
+                <orth xml:lang="spa" rendition="#i">habil</orth><pc>,</pc>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <lang rendition="#k">it.</lang>
+              <form>
+                <orth xml:lang="ita" rendition="#i">abile</orth><pc>;</pc>
+              </form>
+            </cit>
+            <seg>source</seg>
+            <cit type="etymon">
+              <lang rendition="#k">lat.</lang>
+              <form>
+                <orth xml:lang="lat" rendition="#i">habilis</orth><pc>.</pc>
+              </form>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_10" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abode</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form rendition="#i">
+                <orth xml:lang="enm">abǫ́d</orth>
+              </form>
+              <seg>prop.</seg>
+              <gloss>‘delay, abiding’</gloss><pc>;</pc>
+            </cit>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">bide</ref><pc>.</pc>
+            </xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_11" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abound</orth>
+          </form>
+          <etym>
+          <cit type="etymon">
+            <lang rendition="#k">me.</lang>
+            <form>
+              <orth xml:lang="enm" rendition="#i">abounde</orth><pc>:</pc>
+            </form>
+          </cit>
+          <seg>adapt. of</seg>
+          <cit type="cognate">
+            <lang rendition="#k">fr.</lang>
+            <form rendition="#i">
+              <orth xml:lang="fra">abonder</orth>
+            </form>
+          </cit>
+          <seg>=</seg>
+          <cit type="etymon">
+            <lang rendition="#k">lat.</lang>
+            <form rendition="#i">
+              <orth xml:lang="lat">abundare</orth>
+            </form>
+            <gloss>‘abound’</gloss><pc>.</pc>
+          </cit>
+          </etym>
+        </entry>        
+        <entry xml:id="E_a_12" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>about</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form rendition="#i">
+                <orth xml:lang="enm">aboute</orth>
+              </form>
+            </cit>
+            <cit type="etymon">
+              <lang rendition="#k">oe.</lang>
+              <form>
+                <orth xml:lang="ang" rendition="#i">ábútan</orth>
+                <orth xml:lang="ang" rendition="#i">onbútan</orth><pc>;</pc>
+              </form>
+            </cit>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">but</ref>
+            </xr>
+            <seg>for</seg>
+            <cit type="example">
+              <lang rendition="#k">oe.</lang>
+              <form>
+                <orth xml:lang="ang" rendition="#i">bútan</orth><pc>.</pc>
+              </form>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_13" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>above</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form rendition="#i">
+                <orth xml:lang="enm">above</orth>
+              </form>
+              <seg>earlier</seg>
+              <form rendition="#i">
+                <orth xml:lang="enm">abufen</orth>
+              </form>
+            </cit>
+            <cit type="etymon">
+              <lang rendition="#k">oe.</lang>
+              <form>
+                <orth xml:lang="ang" rendition="#i">ábufan</orth><pc>;</pc>
+              </form>
+            </cit>
+            <seg>akin to</seg>
+            <cit type="cognate">
+              <lang rendition="#k">g.</lang>
+              <form rendition="#i">
+                <orth xml:lang="deu">oben</orth>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <lang rendition="#k">ohg.</lang>
+              <form rendition="#i">
+                <orth xml:lang="goh">obana</orth>
+              </form>
+              <gloss>‘from above’</gloss><pc>;</pc>
+            </cit>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">over</ref><pc>.</pc></xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_14" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abridge</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>
+                <orth xml:lang="enm" rendition="#i">abriǧǧe</orth>
+                <orth xml:lang="enm" rendition="#i">abreǧǧe</orth><pc>:</pc>
+              </form>
+            </cit>
+            <seg>adapt. of</seg>
+            <cit type="etymon">
+              <lang rendition="#k">ofr.</lang>
+              <form rendition="#i">
+                <orth xml:lang="fro">abrigier</orth>
+                <orth xml:lang="fro">abregier</orth>
+              </form>
+            </cit>
+            <pc>(</pc><seg>source</seg>
+            <cit type="etymon">
+              <lang rendition="#k">lat.</lang>
+              <form rendition="#i">
+                <orth xml:lang="lat">abbreviare</orth>
+              </form>
+              <gloss>‘shorten’</gloss><pc>)</pc><pc>.</pc>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_15" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abroad</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form rendition="#i">
+                <orth xml:lang="enm">a brǫ́d</orth>
+              </form>
+              <seg>prop.</seg>
+              <gloss>‘broadly, widely’</gloss><pc>;</pc>
+            </cit>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">broad</ref><pc>.</pc>
+            </xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_16" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>abuse</orth>
+          </form>
+          <etym>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">use</ref><pc>.</pc></xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_17" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth rendition="#b">accord</orth>
+            <gramGrp>
+              <gram type="pos">vb.</gram>
+            </gramGrp>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form rendition="#i">
+                <orth xml:lang="enm">acorde</orth>
+              </form>
+            </cit>
+            <cit type="etymon">
+              <seg>late</seg>
+              <lang rendition="#k">oe.</lang>
+              <!-- date would be much more to the point here instead of seg -->
+              <pc>(</pc><seg>c. 1140</seg><pc>)</pc>
+              <form>
+                <orth xml:lang="ang" rendition="#i">ácordian</orth><pc>:</pc>
+              </form>
+            </cit>
+            <seg>borrowed from</seg>
+            <cit type="etymon">
+              <lang rendition="#k">ofr.</lang>
+              <form rendition="#i">
+                <orth xml:lang="fro">acorder</orth>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <lang rendition="#k">fr.</lang>
+              <form rendition="#i">
+                <orth xml:lang="fra">accorder</orth>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <pc>(</pc><seg>cp.</seg>
+              <lang rendition="#k">it.</lang>
+              <form>
+                <orth xml:lang="ita" rendition="#i">accordare</orth><pc>)</pc><pc>.</pc>
+              </form>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_18" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>accuse</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form rendition="#i">
+                <orth xml:lang="enm">accüse</orth>
+              </form>
+            </cit>
+            <seg>from</seg>
+            <cit type="cognate">
+              <lang rendition="#k">fr.</lang>
+              <form rendition="#i">
+                <orth xml:lang="fra">accuser</orth>
+              </form>
+            </cit>
+            <cit type="etymon">
+              <pc>(</pc><lang rendition="#k">lat.</lang>
+              <form>
+                <orth xml:lang="lat" rendition="#i">accusare</orth><pc>)</pc><pc>.</pc>
+              </form>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_19" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth rendition="#b">accrue</orth>
+            <pc>(</pc><orth rendition="#i">accrew</orth><pc>)</pc>
+            <gramGrp>
+              <gram type="pos">vb.</gram>
+            </gramGrp>
+          </form>
+          <etym>
+            <seg>from</seg>
+            <cit type="cognate">
+              <lang rendition="#k">fr.</lang>
+              <form>
+                <orth xml:lang="fra" rendition="#i">accrue</orth>
+                <gramGrp>
+                  <gram type="pos">sb.</gram>
+                </gramGrp>
+              </form>
+              <gloss>‘growth, increase’</gloss>
+            </cit>
+            <cit type="cognate">
+              <pc>(</pc><seg>orig. part. of</seg>
+              <lang rendition="#k">fr.</lang>
+              <form><orth xml:lang="fra" rendition="#i">accroître</orth><pc>:</pc>
+              </form>
+              <cit type="etymon">
+                <lang rendition="#k">lat.</lang>
+                <form type="compound" xml:lang="lat"><hi rendition="#i">ad</hi> + <hi rendition="#i">cretum</hi></form><pc>)</pc><pc>;</pc>
+              </cit>
+            </cit>
+            <xr type="related">
+              <lbl>cp.</lbl>
+              <ref type="entry" rendition="#i #g">increase</ref><pc>.</pc>
+            </xr>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_20" type="mainEntry" xml:lang="eng">
+          <form type="lemma" rendition="#b">
+            <orth>ace</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form>
+                <orth xml:lang="enm" rendition="#i">ás</orth>
+                <orth xml:lang="enm" rendition="#i">áce</orth><pc>:</pc>
+              </form>
+            </cit>
+            <seg>loanword from</seg>
+            <cit type="etymon">
+              <lang rendition="#k">fr.</lang> <!-- probably implies xml:lang="fro" as well -->
+              <form rendition="#i">
+                <orth xml:lang="fra">as</orth>
+              </form>
+            </cit>
+            <pc>(</pc><seg>=</seg>
+            <cit type="cognate">
+              <lang rendition="#k">span.</lang>
+              <form><orth xml:lang="spa" rendition="#i">as</orth><pc>,</pc>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <lang rendition="#k">g.</lang>
+              <form>
+                <orth xml:lang="deu" rendition="#i">ass</orth><pc>,</pc>
+              </form>
+            </cit>
+            <cit type="cognate">
+              <lang rendition="#k">du.</lang>
+              <form><orth xml:lang="nld" rendition="#i">aas</orth><pc>)</pc><pc>.</pc>
+              </form>
+            </cit>
+            <seg>Source</seg>
+            <cit type="cognate">
+              <lang rendition="#k">lat.</lang>
+              <form rendition="#i">
+                <orth xml:lang="lat">as</orth>
+              </form>
+              <form type="inflected">
+                <gramGrp>
+                  <pc>(</pc><gram type="case" value="accusative">acc.</gram>
+                </gramGrp>
+                <orth xml:lang="lat" rendition="#i">assem</orth><pc>)</pc>
+              </form>
+              <gloss>‘a unit, pound, foot’</gloss><pc>.</pc>
+            </cit>
+          </etym>
+        </entry>
+        <entry xml:id="E_a_21" type="mainEntry" xml:lang="eng">
+          <form type="lemma">
+            <orth rendition="#b">ache</orth>
+          </form>
+          <form type="variant">
+            <lbl>earlier spelling</lbl>
+            <orth rendition="#i">ake</orth>
+          </form>
+          <etym>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form><orth xml:lang="enm" rendition="#i">áke</orth><pc>;</pc></form>
+            </cit>
+            <seg>derived from</seg>
+            <cit type="etymon">
+              <lang rendition="#k">oe.</lang>
+              <form rendition="#i">
+                <orth xml:lang="ang">ĕče</orth>
+              </form>
+            </cit>
+            <cit type="etymon">
+              <lang rendition="#k">me.</lang>
+              <form rendition="#i">
+                <orth xml:lang="enm">eche</orth>
+              </form>
+              <gloss>‘pain’</gloss>
+            </cit>
+            <seg>under the influence of the</seg>
+            <!-- again, "etymon" would be a bit of a stretch here -->
+            <cit type="example">
+              <gramGrp>
+                <gram type="pos">vb.</gram>
+              </gramGrp>
+              <lang rendition="#k">oe.</lang>
+              <form rendition="#i">
+                <orth xml:lang="ang">acan</orth>
+              </form>
+            </cit>
+            <cit type="example">
+              <lang>me.</lang>
+              <form>
+                <orth xml:lang="enm">ake</orth>
+              </form>
+              <gloss>‘ache, feel pain’</gloss><pc>.</pc></cit>
+          </etym>
+        </entry>
+      </div>
+    </body>
+  </text>
+</TEI>
