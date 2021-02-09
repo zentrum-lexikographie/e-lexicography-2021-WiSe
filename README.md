@@ -17,7 +17,7 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 
 ## Tag 4 (23.2.2021):
 * 10-12.30 (gemeinsam mit Anja Pfeiffer, ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
-* 13-15.30 (gemeinsam mit Ulf Hamster (BBAW) und Ji-Ung Lee, TU Darmstadt (tbc): Evidence 2 - Auswertung der Bewertungen; technischer Hintergrund
+* 13-15.30 (gemeinsam mit Ulf Hamster (BBAW) und Ji-Ung Lee, TU Darmstadt: Evidence 2 - Auswertung der Bewertungen; technischer Hintergrund (insbes. zu Erstellung der Modelle)
 * 15.30-16.00: Zusammenfassung
 
 ## Weiterführende Quellen:
