@@ -12,8 +12,8 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 * 13.15-16 (gemeinsam mit Ulf Hamster - DFG-Projekt Evidence): Evidence 1: Studie zur Belegbewertung - Bewertung von Belegbeispielen (App-unterstützt); bitte vorab die Umfrage ausfüllen: https://forms.gle/3NQL4YX1ZicLCvMr8, Anleitung hierzu: https://youtube.com/playlist?list=PL5ZUTHo0MPd6GvUm2oiS8pBzhYZFloZhn
 
 ## Tag 3 (22.2.2021):
-* 10-12.00 (gemeinsam mit Gregor Middell, ZDL, tbc): Wiktionary/DWDS/Wikimedia/Linked Open Data
-* 13-16.00 (gemeinsam mit NN): Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, einschl. Frame Semantik und Lexikalische Funktionen)
+* 10-12.00 (gemeinsam mit Gregor Middell, ZDL, tbc): Wiktionary/DWDS/Wikimedia/Linked Open Data (http://gregor.middell.net/zdl-wiktionary/)
+* 13-16.00 (gemeinsam mit Isabel Fuhrmann): Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, einschl. Frame Semantik und Lexikalische Funktionen (Isabel Fuhrmann)
 
 ## Tag 4 (23.2.2021):
 * 10-12.30 (gemeinsam mit Anja Pfeiffer, ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
