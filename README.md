@@ -9,7 +9,7 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 
 ## Tag 2 (9.2.2021):
 * 10-12.30 (gemeinsam mit Axel Herold, DWDS): Strukturierung von Wörterbüchern (Einführung in *TEI* und *TEI-Lex0* sowie der DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
-* 13.15-16 (gemeinsam mit Ulf Hamster - DFG-Projekt Evidence): Evidence 1: Studie zur Belegbewertung - Bewertung von Belegbeispielen (App-unterstützt: https://riker.bbaw.de/);  Anleitung hierzu: https://youtube.com/playlist?list=PL5ZUTHo0MPd6GvUm2oiS8pBzhYZFloZhn; NEU: den Leitfaden vom 14.2. für die Bewertung der Belege findet sich unter "Leitfaden_BewertungBelege.pdf" in diesem github-Verzeichnis. 
+* 13.15-16 (gemeinsam mit Ulf Hamster - DFG-Projekt Evidence): Evidence 1: Studie zur Belegbewertung - Bewertung von Belegbeispielen (App-unterstützt: https://riker.bbaw.de/);  Anleitung hierzu: https://youtube.com/playlist?list=PL5ZUTHo0MPd6GvUm2oiS8pBzhYZFloZhn; NEU: den Leitfaden für die Bewertung der Belege findet sich unter "Leitfaden_BewertungBelege.pdf" in diesem github-Verzeichnis. *Neueste Fassung ist vom 14.2.*
 
 ## Tag 3 (22.2.2021):
 * 10-12.00 (gemeinsam mit Gregor Middell, ZDL, tbc): Wiktionary/DWDS/Wikimedia/Linked Open Data (http://gregor.middell.net/zdl-wiktionary/)
