@@ -13,7 +13,7 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr:
 
 ## Tag 3 (22.2.2021):
 * 10-12.00 (gemeinsam mit Gregor Middell, ZDL, tbc): Wiktionary/DWDS/Wikimedia/Linked Open Data (http://gregor.middell.net/zdl-wiktionary/)
-* 13-16.00 (gemeinsam mit Isabel Fuhrmann): Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, einschl. Frame Semantik und Lexikalische Funktionen (Isabel Fuhrmann)
+* 13-16.00 (gemeinsam mit Isabel Fuhrmann): Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, einschl. Frame Semantik und Lexikalische Funktionen (Isabel Fuhrmann), vgl. https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf)
 
 ## Tag 4 (23.2.2021):
 * 10-12.30 (gemeinsam mit Anja Pfeiffer, ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
